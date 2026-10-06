@@ -6,5 +6,5 @@ metadata:
 spec:
   subscriptions:
   - image:
-      repoURL: ghcr.io/<user>/guestbook
+      repoURL: ghcr.io/0xf1e/guestbook
       discoveryLimit: 5
